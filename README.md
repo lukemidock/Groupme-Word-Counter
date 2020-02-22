@@ -20,6 +20,6 @@ Given a group name and a list of keywords, this counter will list the people who
 
 7. Go to https://dev.groupme.com/, log in to your groupme and create an application so you can get an access token for use in this application
 
-8. Update config.py with your personal info
+8. Update config.py with your personal info. You can do this with any text editor like notepad or sublime.
 
 9. run the script by doing `python3 main.py`, `py main.py`, or `python main.py` in the terminal or cmd
